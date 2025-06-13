@@ -12,5 +12,5 @@
 
 *MENTOR*: NEELA SANTOSH
 
-#Push Button Counter Using Microcontroller with Debouncing and Display Output
+# Push Button Counter Using Microcontroller with Debouncing and Display Output
 
