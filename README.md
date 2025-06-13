@@ -23,5 +23,5 @@
 ## Software Used
 
 1. Proteus 8 Professional
-   - A professional-level circuit simulation software used to simulate microcontroller-based projects. It allows real-time visualization of the embedded system's functionality without needing physical hardware. It supports direct import of > .hex files generated from Arduino IDE for simulation.
+   - A professional-level circuit simulation software used to simulate microcontroller-based projects. It allows real-time visualization of the embedded system's functionality without needing physical hardware. It supports direct import of >.hex files generated from Arduino IDE for simulation.
 
