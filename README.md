@@ -20,9 +20,7 @@
 
 + This project demonstrates key embedded system principles like output display, software debouncing, digital input processing, and real-time counting.
 
-# Software and Components Used
-
-## Software 
+## Software Used
 
 1. **Proteus 8 Professional**
    - A professional-level circuit simulation software used to simulate microcontroller-based projects. It allows real-time visualization of the embedded system's functionality without needing physical hardware. It supports direct import of .hex files generated from Arduino IDE for simulation.
@@ -33,7 +31,7 @@
 3. **Hex File Generator**
    - The Arduino IDE was used to compile the sketch into a .hex file, which was then loaded into the Proteus Arduino model for simulation.
   
-## Components
+## Components Used
 
 1. **Microcontroller: Arduino Uno R3**
    - A widely-used open-source microcontroller board based on the ATmega328P. It offers digital and analog I/O pins, easy USB connectivity, and is ideal for beginner-level embedded projects.
