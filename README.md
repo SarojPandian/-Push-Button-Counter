@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-## Description
+# Description
 
 + The aim of this project is to design an embedded system that uses a microcontroller to precisely count and display the number of times a push button was pressed.  The mechanical "bouncing" of the button, which can produce many counts for one push, is the main problem using such devices. Software-based debouncing techniques are used to get around problem and guarantee precise and accurate counting.
 
@@ -20,7 +20,9 @@
 
 + This project demonstrates key embedded system principles like output display, software debouncing, digital input processing, and real-time counting.
 
-### Software Used
+# Software and Components Used
+
+## Software 
 
 1. Proteus 8 Professional
    - A professional-level circuit simulation software used to simulate microcontroller-based projects. It allows real-time visualization of the embedded system's functionality without needing physical hardware. It supports direct import of .hex files generated from Arduino IDE for simulation.
@@ -28,4 +30,15 @@
 2. Arduino IDE
    - An open-source software used for writing, compiling, and uploading code to Arduino boards. It supports embedded C/C++ programming with many built-in libraries, simplifying the process of working with peripherals like buttons and LCDs.
   
-### 
+## Components
+
+1. Microcontroller: Arduino Uno R3
+   - A widely-used open-source microcontroller board based on the ATmega328P. It offers digital and analog I/O pins, easy USB connectivity, and is ideal for beginner-level embedded projects.
+  
+2. Input Device: Push Button Switch
+   - Used as the primary user input for triggering count increments.
+
+3. Output Device: 16x2 LCD Display (Alphanumeric)
+   -Used to display the count of button presses in real-time. Operated in 4-bit mode to conserve Arduino I/O pins.
+
+
