@@ -44,4 +44,4 @@
 
 ## Circuit Diagram
 
-![Image](https://github.com/user-attachments/assets/ded59648-baad-4189-85df-245947077d1f)
+![Image](https://github.com/user-attachments/assets/b5e90c6a-0148-4dee-bc53-180c51e3c5bb)
