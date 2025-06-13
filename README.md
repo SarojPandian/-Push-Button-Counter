@@ -42,6 +42,10 @@
 3. **Output Device: 16x2 LCD Display (Alphanumeric)**
    - Used to display the count of button presses in real-time. Operated in 4-bit mode to conserve Arduino I/O pins.
 
-## Circuit Diagram
+## Circuit Design
 
 ![Image](https://github.com/user-attachments/assets/b5e90c6a-0148-4dee-bc53-180c51e3c5bb)
+
+## Simulation Output
+
+https://github.com/user-attachments/assets/ec215f42-2582-44d8-94d1-89dd373d3035
