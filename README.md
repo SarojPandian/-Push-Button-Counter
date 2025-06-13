@@ -30,6 +30,9 @@
 2. Arduino IDE
    - An open-source software used for writing, compiling, and uploading code to Arduino boards. It supports embedded C/C++ programming with many built-in libraries, simplifying the process of working with peripherals like buttons and LCDs.
   
+3. Hex File Generator
+   -The Arduino IDE was used to compile the sketch into a .hex file, which was then loaded into the Proteus Arduino model for simulation.
+  
 ## Components
 
 1. Microcontroller: Arduino Uno R3
